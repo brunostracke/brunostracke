@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 😁
+
+Estudante de Análise e Desenvolvimento de Sistemas e aspirante a Coder.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunostracke)](https://www.linkedin.com/in/brunostracke)
 
 <!--
 **brunostracke/brunostracke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
