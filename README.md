@@ -1,4 +1,4 @@
-### Hi there! 😁
+### Oi gente! 😁
 
 Estudante de Análise e Desenvolvimento de Sistemas e aspirante a Coder.
 
