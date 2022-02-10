@@ -1,6 +1,6 @@
 ### Oi gente! 😁
 
-Estudante de Análise e Desenvolvimento de Sistemas e aspirante a Coder.
+Desenvolvedor Front-End.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunostracke)](https://www.linkedin.com/in/brunostracke)
 
